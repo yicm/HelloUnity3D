@@ -1,5 +1,12 @@
 [TOC]
 
+**开发环境**：
+
+- Unity 2019.3.14f1
+- Android Studio 3.4.1
+    - Android9.+(Q)
+    - 28.0.3 Build Tools
+
 ## 1 Unity导出Android工程
 
 ![](https://www.xiaobaiai.net/imgs/20200611201018.png)
